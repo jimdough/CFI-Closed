@@ -21,7 +21,6 @@
     </div>
    
    <div class="col-md-6 pull-right hidden-sm" id="topPhone">
-    	<h2>1-888-831-8303</h2>
     	<?php include("inc/ctc.inc"); ?>
     </div>
     </div>
