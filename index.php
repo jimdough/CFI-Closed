@@ -35,7 +35,7 @@
   <!-- Insert Content Here -->
   
   <p>Central Florida Institute has voluntarily closed both of its campuses effective November 1, 2014.</p>
-<p>If you are a graduate or former student and would like to receive a transcript of your completed course work at either CFI campus, please request in writing via email CFIrecords@careerpathtraining.com or via USPS:</p>
+<p>If you are a graduate or former student and would like to receive a transcript of your completed course work at either CFI campus, please complete the transcript form <a href="transcript.pdf" target="_blank">available here</a> and submit your request via email CFIrecords@careerpathtraining.com or via USPS:</p>
 <br>
 CFI Records
 <br>
@@ -44,8 +44,7 @@ Career Path Training
 11300 4th Street North
 <br>
 St. Petersburg, FL  33716
-<br><br>
-<p>For your convenience, a transcript request form is available by <a href="transcript.pdf" target="_blank">clicking here.</a></p>
+<br>
 <p>
 Processing fee is $7 per copy made payable to Career Path Training. </p> 
 
@@ -66,9 +65,9 @@ Career Path Training
 <br>
 St. Petersburg, FL  33716
 <br>
-727-342-6420 x232
+727-342-6420 x1232
 <br><br>
-<p>For General Information or Questions please call 727-342-6420 x232 or email us at <a href="mailto:CFIRecords@careerpathtraining.com">CFIRecords@careerpathtraining.com</a>.</p>
+<p>For General Information or Questions please call 727-342-6420 x1232 or email us at <a href="mailto:CFIRecords@careerpathtraining.com">CFIRecords@careerpathtraining.com</a>.</p>
 <p>Need information about your student loan? Use the contact information below to look up your Pell and student loan information, including your loan servicer:</p> 
   <br>
   <a href="www.nslds@ed.gov">www.nslds@ed.gov</a>
